@@ -1,0 +1,1033 @@
+{
+  "projeto": {
+    "id": "p-dgi",
+    "codigo": "DGI",
+    "nome": "Direção de Gestão de Incumprimento",
+    "responsavel": "Sara Varatojo",
+    "criadoEm": "2026-09-09T12:43:49.808Z",
+    "criadoPor": "Sara Varatojo"
+  },
+  "projetos": [
+    {
+      "id": "p-dgi",
+      "codigo": "DGI",
+      "nome": "Direção de Gestão de Incumprimento"
+    }
+  ],
+  "agentes": [
+    {
+      "id": "a-8175161",
+      "nome": "ana.paula.santos",
+      "cargaHoraria": 8,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8014017",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:49:35.161Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:51:57.244Z"
+    },
+    {
+      "id": "a-8186753",
+      "nome": "andre.costa",
+      "cargaHoraria": 8,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8492929",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:49:46.753Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:54:34.575Z"
+    },
+    {
+      "id": "a-8199553",
+      "nome": "angelique.almeida",
+      "cargaHoraria": 8,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8014017",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:49:59.553Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:52:09.652Z"
+    },
+    {
+      "id": "a-8219722",
+      "nome": "bruna.cunha",
+      "cargaHoraria": 6,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8014017",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:50:19.722Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:52:14.259Z"
+    },
+    {
+      "id": "a-8233786",
+      "nome": "cristina.grilo",
+      "cargaHoraria": 8,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8014017",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:50:33.786Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:52:19.653Z"
+    },
+    {
+      "id": "a-8246610",
+      "nome": "dulce.fortunato",
+      "cargaHoraria": 8,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8014017",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:50:46.610Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:52:26.502Z"
+    },
+    {
+      "id": "a-8262210",
+      "nome": "filipe.lopes",
+      "cargaHoraria": 6,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8492929",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:51:02.210Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:55:09.352Z"
+    },
+    {
+      "id": "a-8281708",
+      "nome": "joana.florencio",
+      "cargaHoraria": 8,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8014017",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:51:21.708Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:52:43.253Z"
+    },
+    {
+      "id": "a-8293876",
+      "nome": "lilia.faria",
+      "cargaHoraria": 8,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8492929",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:51:33.876Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:55:28.528Z"
+    },
+    {
+      "id": "a-8311795",
+      "nome": "marco.gourgel",
+      "cargaHoraria": 6,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8014017",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:51:51.795Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:52:54.293Z"
+    },
+    {
+      "id": "a-8324108",
+      "nome": "maria.godinho",
+      "cargaHoraria": 5,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8014017",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:52:04.108Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:52:58.758Z"
+    },
+    {
+      "id": "a-8333558",
+      "nome": "maria.lindinho",
+      "cargaHoraria": 8,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8492929",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:52:13.558Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:55:44.543Z"
+    },
+    {
+      "id": "a-8344813",
+      "nome": "maria.mestre",
+      "cargaHoraria": 5,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8014017",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:52:24.813Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:53:10.221Z"
+    },
+    {
+      "id": "a-8370717",
+      "nome": "maria.nortadas",
+      "cargaHoraria": 6,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8014017",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:52:50.717Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:53:14.558Z"
+    },
+    {
+      "id": "a-8381389",
+      "nome": "monica.silva",
+      "cargaHoraria": 8,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8492929",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:53:01.389Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:56:09.720Z"
+    },
+    {
+      "id": "a-8401239",
+      "nome": "nadia.amin",
+      "cargaHoraria": 8,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8492929",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:53:21.239Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:56:23.176Z"
+    },
+    {
+      "id": "a-8419479",
+      "nome": "paula.alvaro",
+      "cargaHoraria": 7,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8014017",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:53:39.479Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:53:33.119Z"
+    },
+    {
+      "id": "a-8435063",
+      "nome": "rita.lourenço",
+      "cargaHoraria": 8,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8492929",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:53:55.063Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:56:33.960Z"
+    },
+    {
+      "id": "a-8448977",
+      "nome": "tania.alves",
+      "cargaHoraria": 6,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8492929",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:54:08.977Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:56:51.023Z"
+    },
+    {
+      "id": "a-8464073",
+      "nome": "tiago.rodrigues",
+      "cargaHoraria": 8,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8014017",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:54:24.073Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:57:00.823Z"
+    },
+    {
+      "id": "a-8478120",
+      "nome": "vanda.silva",
+      "cargaHoraria": 5,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8014017",
+      "dataInicio": "2026-09-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:54:38.120Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:53:51.327Z"
+    },
+    {
+      "id": "a-3908092",
+      "nome": "nivea.santos",
+      "cargaHoraria": 8,
+      "projetoId": "p-dgi",
+      "supervisorId": "s-8014017",
+      "dataInicio": "2026-10-01",
+      "estado": "Ativo",
+      "dataSaida": "",
+      "motivoSaida": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-10-21T14:45:08.091Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-21T14:45:08.091Z"
+    }
+  ],
+  "supervisores": [
+    {
+      "id": "s-8014017",
+      "nome": "sara.varatojo",
+      "funcao": "Supervisão",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:46:54.017Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-19T14:11:03.674Z"
+    },
+    {
+      "id": "s-8492929",
+      "nome": "isabel.sousa",
+      "funcao": "Supervisão",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:54:52.929Z"
+    },
+    {
+      "id": "s-8505697",
+      "nome": "tiago.baptista",
+      "funcao": "Coordenação",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:55:05.697Z"
+    }
+  ],
+  "historicoSupervisores": [
+    {
+      "id": "hs-5673055",
+      "agenteId": "a-8186753",
+      "supervisorAnteriorId": "s-8014017",
+      "supervisorNovoId": "s-8492929",
+      "data": "2026-09-09",
+      "motivo": "Reorganização de equipa",
+      "obs": "",
+      "registadoPor": "Sara Varatojo",
+      "registadoEm": "2026-09-09T14:54:33.055Z"
+    },
+    {
+      "id": "hs-5707119",
+      "agenteId": "a-8262210",
+      "supervisorAnteriorId": "s-8014017",
+      "supervisorNovoId": "s-8492929",
+      "data": "2026-09-09",
+      "motivo": "Reorganização de equipa",
+      "obs": "",
+      "registadoPor": "Sara Varatojo",
+      "registadoEm": "2026-09-09T14:55:07.119Z"
+    },
+    {
+      "id": "hs-5727079",
+      "agenteId": "a-8293876",
+      "supervisorAnteriorId": "s-8014017",
+      "supervisorNovoId": "s-8492929",
+      "data": "2026-09-09",
+      "motivo": "Reorganização de equipa",
+      "obs": "",
+      "registadoPor": "Sara Varatojo",
+      "registadoEm": "2026-09-09T14:55:27.079Z"
+    },
+    {
+      "id": "hs-5742311",
+      "agenteId": "a-8333558",
+      "supervisorAnteriorId": "s-8014017",
+      "supervisorNovoId": "s-8492929",
+      "data": "2026-09-09",
+      "motivo": "Reorganização de equipa",
+      "obs": "",
+      "registadoPor": "Sara Varatojo",
+      "registadoEm": "2026-09-09T14:55:42.311Z"
+    },
+    {
+      "id": "hs-5760223",
+      "agenteId": "a-8381389",
+      "supervisorAnteriorId": "s-8014017",
+      "supervisorNovoId": "s-8492929",
+      "data": "2026-09-09",
+      "motivo": "Reorganização de equipa",
+      "obs": "",
+      "registadoPor": "Sara Varatojo",
+      "registadoEm": "2026-09-09T14:56:00.223Z"
+    },
+    {
+      "id": "hs-5781583",
+      "agenteId": "a-8401239",
+      "supervisorAnteriorId": "s-8014017",
+      "supervisorNovoId": "s-8492929",
+      "data": "2026-09-09",
+      "motivo": "Reorganização de equipa",
+      "obs": "",
+      "registadoPor": "Sara Varatojo",
+      "registadoEm": "2026-09-09T14:56:21.583Z"
+    },
+    {
+      "id": "hs-5792415",
+      "agenteId": "a-8435063",
+      "supervisorAnteriorId": "s-8014017",
+      "supervisorNovoId": "s-8492929",
+      "data": "2026-09-09",
+      "motivo": "Reorganização de equipa",
+      "obs": "",
+      "registadoPor": "Sara Varatojo",
+      "registadoEm": "2026-09-09T14:56:32.415Z"
+    },
+    {
+      "id": "hs-5809951",
+      "agenteId": "a-8448977",
+      "supervisorAnteriorId": "s-8014017",
+      "supervisorNovoId": "s-8492929",
+      "data": "2026-09-09",
+      "motivo": "Reorganização de equipa",
+      "obs": "",
+      "registadoPor": "Sara Varatojo",
+      "registadoEm": "2026-09-09T14:56:49.951Z"
+    }
+  ],
+  "alocacoes": [],
+  "tipos": [
+    {
+      "id": "t1",
+      "nome": "Qualidade",
+      "descricao": "Aderência à grelha"
+    },
+    {
+      "id": "t2",
+      "nome": "Processo",
+      "descricao": "Cumprimento de procedimentos"
+    },
+    {
+      "id": "t3",
+      "nome": "Comunicação",
+      "descricao": "Linguagem e empatia"
+    },
+    {
+      "id": "t4",
+      "nome": "Retenção",
+      "descricao": "Salvar o cliente"
+    },
+    {
+      "id": "t5",
+      "nome": "Produtividade",
+      "descricao": "Volume e ritmo"
+    },
+    {
+      "id": "t6",
+      "nome": "Conhecimento",
+      "descricao": "Domínio técnico"
+    },
+    {
+      "id": "t7",
+      "nome": "Comportamento",
+      "descricao": "Atitude e postura"
+    },
+    {
+      "id": "t8",
+      "nome": "Conversão",
+      "descricao": "Fechar o resultado"
+    }
+  ],
+  "kpis": [
+    {
+      "id": "k-0148238",
+      "nome": "Agendamento",
+      "tipoKpi": "Percentual",
+      "target": 10,
+      "unidade": "%",
+      "direcao": "Menor",
+      "campanhaId": "__GLOBAL__",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T13:22:28.238Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-19T15:11:50.539Z"
+    },
+    {
+      "id": "k-0197623",
+      "nome": "Dificuldades",
+      "tipoKpi": "Percentual",
+      "target": 10,
+      "unidade": "%",
+      "direcao": "Menor",
+      "campanhaId": "__GLOBAL__",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T13:23:17.623Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-19T15:11:59.453Z"
+    },
+    {
+      "id": "k-1005096",
+      "nome": "AHT - Retenção",
+      "tipoKpi": "Numérico",
+      "target": 12,
+      "unidade": "min",
+      "direcao": "Menor",
+      "campanhaId": "__GLOBAL__",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T13:36:45.096Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T13:39:55.881Z"
+    },
+    {
+      "id": "k-1090841",
+      "nome": "AHT - Cobrança",
+      "tipoKpi": "Numérico",
+      "target": 5,
+      "unidade": "min",
+      "direcao": "Menor",
+      "campanhaId": "__GLOBAL__",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T13:38:10.841Z"
+    },
+    {
+      "id": "k-1172817",
+      "nome": "AHT - Ativação DD",
+      "tipoKpi": "Numérico",
+      "target": 7,
+      "unidade": "min",
+      "direcao": "Menor",
+      "campanhaId": "__GLOBAL__",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T13:39:32.817Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T13:40:28.386Z"
+    },
+    {
+      "id": "k-1294859",
+      "nome": "Qualidade",
+      "tipoKpi": "Percentual",
+      "target": 90,
+      "unidade": "%",
+      "direcao": "Maior",
+      "campanhaId": "__GLOBAL__",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T13:41:34.858Z"
+    },
+    {
+      "id": "k-3640291",
+      "nome": "Promessa de Pagamento",
+      "tipoKpi": "Percentual",
+      "target": 60,
+      "unidade": "%",
+      "direcao": "Maior",
+      "campanhaId": "cm-8700756",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T14:20:40.291Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-19T13:30:48.564Z"
+    },
+    {
+      "id": "k-3742474",
+      "nome": "Promessa de Pagamento",
+      "tipoKpi": "Percentual",
+      "target": 60,
+      "unidade": "%",
+      "direcao": "Maior",
+      "campanhaId": "cm-8716963",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T14:22:22.474Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-19T13:31:13.917Z"
+    },
+    {
+      "id": "k-3816371",
+      "nome": "Promessa de Pagamento",
+      "tipoKpi": "Percentual",
+      "target": 40,
+      "unidade": "%",
+      "direcao": "Maior",
+      "campanhaId": "cm-8737699",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T14:23:36.371Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-19T13:31:31.142Z"
+    },
+    {
+      "id": "k-3860138",
+      "nome": "Promessa de Pagamento",
+      "tipoKpi": "Percentual",
+      "target": 90,
+      "unidade": "%",
+      "direcao": "Maior",
+      "campanhaId": "cm-8758548",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T14:24:20.138Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:30:06.626Z"
+    },
+    {
+      "id": "k-3918122",
+      "nome": "Promessa de Pagamento",
+      "tipoKpi": "Percentual",
+      "target": 50,
+      "unidade": "%",
+      "direcao": "Maior",
+      "campanhaId": "cm-8603434",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T14:25:18.122Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-09-09T14:30:30.922Z"
+    },
+    {
+      "id": "k-4102802",
+      "nome": "Reativação Débito Directo",
+      "tipoKpi": "Percentual",
+      "target": 60,
+      "unidade": "%",
+      "direcao": "Maior",
+      "campanhaId": "cm-8700756",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T14:28:22.802Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-19T13:27:55.013Z"
+    },
+    {
+      "id": "k-4142626",
+      "nome": "Reativação Débito Directo",
+      "tipoKpi": "Percentual",
+      "target": 65,
+      "unidade": "%",
+      "direcao": "Maior",
+      "campanhaId": "cm-8716963",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T14:29:02.626Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-19T13:28:22.813Z"
+    },
+    {
+      "id": "k-4341642",
+      "nome": "Reativação Débito Directo",
+      "tipoKpi": "Percentual",
+      "target": 40,
+      "unidade": "%",
+      "direcao": "Maior",
+      "campanhaId": "cm-8737699",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T14:32:21.642Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-19T13:28:35.716Z"
+    },
+    {
+      "id": "k-4375795",
+      "nome": "Reativação Débito Directo",
+      "tipoKpi": "Percentual",
+      "target": 70,
+      "unidade": "%",
+      "direcao": "Maior",
+      "campanhaId": "cm-8758548",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T14:32:55.795Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-19T13:31:33.685Z"
+    },
+    {
+      "id": "k-6394332",
+      "nome": "Boa Cobrança E&Rs Enviadas",
+      "tipoKpi": "Percentual",
+      "target": 45,
+      "unidade": "%",
+      "direcao": "Maior",
+      "campanhaId": "__GLOBAL__",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-10-19T13:26:34.332Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-19T13:33:43.559Z"
+    },
+    {
+      "id": "k-6787486",
+      "nome": "Promessa de Pagamento E&Rs Enviadas",
+      "tipoKpi": "Percentual",
+      "target": 50,
+      "unidade": "%",
+      "direcao": "Maior",
+      "campanhaId": "cm-8700756",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-10-19T13:33:07.486Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-19T13:33:58.815Z"
+    },
+    {
+      "id": "k-6861160",
+      "nome": "Promessa de Pagamento E&Rs Enviadas",
+      "tipoKpi": "Percentual",
+      "target": 50,
+      "unidade": "%",
+      "direcao": "Maior",
+      "campanhaId": "cm-8716963",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-10-19T13:34:21.160Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-19T13:34:26.169Z"
+    },
+    {
+      "id": "k-6897665",
+      "nome": "Promessa de Pagamento E&Rs Enviadas",
+      "tipoKpi": "Percentual",
+      "target": 25,
+      "unidade": "%",
+      "direcao": "Maior",
+      "campanhaId": "cm-8737699",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-10-19T13:34:57.665Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-19T13:35:02.730Z"
+    },
+    {
+      "id": "k-6932137",
+      "nome": "Promessa de Pagamento E&Rs Enviadas",
+      "tipoKpi": "Percentual",
+      "target": 90,
+      "unidade": "%",
+      "direcao": "Maior",
+      "campanhaId": "cm-8758548",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-10-19T13:35:32.137Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-19T13:35:36.850Z"
+    },
+    {
+      "id": "k-7060981",
+      "nome": "Ready Time",
+      "tipoKpi": "Percentual",
+      "target": 90,
+      "unidade": "%",
+      "direcao": "Maior",
+      "campanhaId": "__GLOBAL__",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-10-19T13:37:40.981Z"
+    }
+  ],
+  "causas": [
+    {
+      "id": "c1",
+      "nome": "Falta de conhecimento técnico",
+      "categoria": "Conhecimento"
+    },
+    {
+      "id": "c2",
+      "nome": "Não cumprimento do procedimento",
+      "categoria": "Processo"
+    },
+    {
+      "id": "c3",
+      "nome": "Falta de empatia / postura",
+      "categoria": "Comportamento"
+    },
+    {
+      "id": "c4",
+      "nome": "Argumentário inadequado",
+      "categoria": "Conhecimento"
+    },
+    {
+      "id": "c5",
+      "nome": "Gestão do tempo de chamada",
+      "categoria": "Produtividade"
+    },
+    {
+      "id": "c6",
+      "nome": "Resistência à mudança",
+      "categoria": "Comportamento"
+    },
+    {
+      "id": "c7",
+      "nome": "Falta de domínio do CRM",
+      "categoria": "Conhecimento"
+    },
+    {
+      "id": "c8",
+      "nome": "Pressão de objetivos",
+      "categoria": "Externa"
+    }
+  ],
+  "estados": [
+    {
+      "id": "e1",
+      "nome": "Em Acompanhamento",
+      "significado": "Em execução com revisão semanal"
+    },
+    {
+      "id": "e2",
+      "nome": "Aguarda Fecho",
+      "significado": "Todas as semanas preenchidas. Gestor deve fechar com notas ou prolongar."
+    },
+    {
+      "id": "e3",
+      "nome": "Concluído",
+      "significado": "Fechado pelo gestor com conversa final registada"
+    },
+    {
+      "id": "e4",
+      "nome": "Sem Evolução",
+      "significado": "Sem progresso após o prazo definido, requer ação do gestor"
+    }
+  ],
+  "campanhas": [
+    {
+      "id": "cm-8603434",
+      "nome": "FIDELIZADOS (+2 Meses)",
+      "codigo": "20",
+      "estado": "Ativa",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:56:43.434Z"
+    },
+    {
+      "id": "cm-8623410",
+      "nome": "FIDELIZADOS (-2Meses)",
+      "codigo": "78",
+      "estado": "Ativa",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:57:03.410Z"
+    },
+    {
+      "id": "cm-8646915",
+      "nome": "FIDELIZADOS (OUTROS)",
+      "codigo": "260",
+      "estado": "Ativa",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:57:26.915Z"
+    },
+    {
+      "id": "cm-8662530",
+      "nome": "PRAZO LIVRE RESOLUÇÃO",
+      "codigo": "179",
+      "estado": "Ativa",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:57:42.530Z"
+    },
+    {
+      "id": "cm-8673363",
+      "nome": "RENOVAÇÕES",
+      "codigo": "78",
+      "estado": "Ativa",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:57:53.363Z"
+    },
+    {
+      "id": "cm-8700756",
+      "nome": "BK1 1ª ABORDAGEM",
+      "codigo": "220",
+      "estado": "Ativa",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:58:20.756Z"
+    },
+    {
+      "id": "cm-8716963",
+      "nome": "BK1 1ª INCUMPRIMENTOS",
+      "codigo": "221",
+      "estado": "Ativa",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:58:36.963Z"
+    },
+    {
+      "id": "cm-8737699",
+      "nome": "BK2 - Late Collections",
+      "codigo": "342",
+      "estado": "Ativa",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:58:57.699Z"
+    },
+    {
+      "id": "cm-8758548",
+      "nome": "IADs Suspensos",
+      "codigo": "86",
+      "estado": "Ativa",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-09-09T12:59:18.548Z"
+    },
+    {
+      "id": "cm-0446267",
+      "nome": "DRC",
+      "codigo": "2026",
+      "estado": "Ativa",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-10-19T14:34:06.267Z"
+    },
+    {
+      "id": "cm-0455444",
+      "nome": "DGI",
+      "codigo": "2026",
+      "estado": "Ativa",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-10-19T14:34:15.444Z"
+    },
+    {
+      "id": "cm-0481724",
+      "nome": "GLOBAL DGI+DRC",
+      "codigo": "2026",
+      "estado": "Ativa",
+      "projetoId": "p-dgi",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-10-19T14:34:41.724Z"
+    }
+  ],
+  "coachings": [],
+  "tiposReuniao": [
+    {
+      "id": "tr1",
+      "nome": "Reunião semanal de equipa"
+    },
+    {
+      "id": "tr2",
+      "nome": "Reunião de resultados"
+    },
+    {
+      "id": "tr3",
+      "nome": "Reunião de campanha"
+    },
+    {
+      "id": "tr4",
+      "nome": "Reunião de formação"
+    },
+    {
+      "id": "tr5",
+      "nome": "Reunião de qualidade"
+    },
+    {
+      "id": "tr6",
+      "nome": "Reunião de feedback coletivo"
+    },
+    {
+      "id": "tr7",
+      "nome": "Reunião extraordinária"
+    }
+  ],
+  "reunioes": [
+    {
+      "id": "REU-2026-SV-0001",
+      "projetoId": "p-dgi",
+      "data": "2026-10-21",
+      "horaInicio": "10:00",
+      "horaFim": "10:20",
+      "tipoId": "tr1",
+      "responsavelId": "s-8014017",
+      "campanhaId": "cm-0455444",
+      "participantesIds": [
+        "a-8233786",
+        "a-8246610",
+        "a-8281708",
+        "a-8370717",
+        "a-3908092",
+        "a-8419479",
+        "a-8478120"
+      ],
+      "tema": "Esclarecimento de Procedimentos dos Business Outcomes",
+      "pontos": "Na reunião foram abordados quatro temas principais: agendamentos, erro inesperado, chamada caiu e recusa categórica.",
+      "decisoes": "Foi esclarecido como proceder perante os diferentes Business Outcomes, nomeadamente agendamentos, erro inesperado, chamada caiu e recusa categórica, reforçando os procedimentos corretos a aplicar em cada situação.",
+      "acoes": "Garantir a correta aplicação dos Business Outcomes, uniformizar procedimentos e reduzir erros no atendimento.",
+      "prazoAcoes": "2026-10-21",
+      "observacoes": "",
+      "criadoPor": "Sara Varatojo",
+      "criadoEm": "2026-10-21T14:51:12.634Z",
+      "modificadoPor": "Sara Varatojo",
+      "modificadoEm": "2026-10-21T14:53:31.562Z"
+    }
+  ]
+}
